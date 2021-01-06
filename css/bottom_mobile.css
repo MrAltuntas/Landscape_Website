@@ -1,0 +1,102 @@
+.bottom_hr{
+    border-top: 2px solid #61665f;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 5%;
+}
+
+p{
+    font-family: 'Questrial', sans-serif;
+    color: #a9aba6;
+    font-size: 0.8em;
+}
+
+#col_first{
+    position: absolute;
+    text-align: center;
+}
+
+#bottom_col_s{
+    margin-top: 5%;
+    position: absolute;
+    margin-right: 50%;
+
+}
+
+#bottom_col_s h6{
+    margin-top: 20%;
+}
+#col_mail{
+    position: absolute;
+    padding-right: 50%;
+    display: inline;
+}
+#col_mail_text{
+    text-align: left;
+    padding-left: 5px !important;
+    margin-left: 35%;
+}
+
+#quick_links{
+
+    margin-top: 55% !important;
+}
+#quick_links p{
+    display: inline;
+    margin-left: 0.5em;
+}
+
+#last_left,#last_right{
+    position: absolute;
+ 
+    padding: 0 !important;
+    padding-left: 20% !important;
+    text-align: left;
+}
+
+
+#last_left p,#last_right p{
+    display: inline;
+}
+
+#last_right{
+    padding-left: 30% !important;
+    margin-top: 5%;
+}
+#col_first h6{
+    font-family: 'Amiri', serif;
+}
+
+#bottom_col_s h6{
+    font-family: 'Amiri', serif;
+}
+
+#bottom_col_s p{
+    font-family: 'Questrial', sans-serif;
+}
+
+
+#quick_links h6{
+    font-family: 'Amiri', serif;
+}
+
+
+#last_left h6{
+    color: #e1e3de;
+    font-family: 'Amiri', serif;
+    display: inline;
+}
+
+#last_right h6{
+    color: #e1e3de;
+    font-family: 'Amiri', serif;
+    display: inline;
+}
+
+a:hover{
+    color: #e1e3de;
+}
+
+.bottom .col{
+    text-align: center;
+}

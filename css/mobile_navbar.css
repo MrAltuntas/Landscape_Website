@@ -1,0 +1,30 @@
+#navbar {
+    background-color: #4d524b !important;
+}
+
+.logo_cowerr{
+    width: 60px;
+    height: 60px;
+}
+
+#logo{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.dropdown-menu{
+    background-color: #4d524b;
+ }
+ 
+ .dropdown-item{
+     color: #e4e6e1;
+     font-family: 'Amiri', serif;
+ }
+
+ .btn{
+    color: #e4e6e1;
+    font-family: 'Amiri', serif;
+    padding: 0;
+    margin: 0;
+}

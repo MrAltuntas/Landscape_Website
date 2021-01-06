@@ -1,0 +1,141 @@
+body{
+    background-color: #4d524b;
+    height: 100%;
+}
+
+br{content:' ';}
+br:after{content:' ';}
+
+.img_container{
+    width: 100%;
+    height: 100%;
+}
+
+.img_container img{
+    width: 100%;
+    height: 100%;
+}
+
+H4{
+    font-size: 1em;
+}
+
+h1{
+    font-family: 'Amiri', serif;
+    color: #e4e6e1;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Questrial', sans-serif;
+    color: #a9aba6;
+    font-size: 0.8em;
+}
+
+.down{
+    padding-left: 0;
+    padding-top: 12%;
+    background-color: #d9d4c0;
+    margin-left: 3%;
+}
+
+.down_col_l_f, .down_col_l_s, .down_col_l_t{
+    border: solid #3a3a3a 1px;
+    padding: 5%;
+    padding-bottom: 5%;
+}
+
+.down_col_l_f h4{
+    font-family: 'Amiri', serif;
+    color: #e1e3de;
+}
+
+.down_col_l_s h4, .down_col_l_t h4{
+    font-family: 'Amiri', serif;
+    color: #1f1f1e;
+}
+
+.down_col_l_s p, .down_col_l_t p{
+    font-family: 'Questrial', sans-serif;
+    color: #616055;
+}
+
+.down_col_l_f, .down_col_l_s{
+    margin-bottom: 10%;
+}
+
+.down .col-10{
+    margin-left: 7%;
+}
+
+.down .col{
+    text-align: center;
+}
+
+.down_col_l_f{
+    background-color: #4d524b;
+}
+
+#down_col_r{
+    text-align: left;
+}
+
+#down_col_r .first_h6{
+    margin-bottom: 20%;
+}
+#down_col_r .second_h6{
+    margin-top: 20%;
+}
+
+#col_r_phone{
+    text-align: center;
+}
+
+#col_r_phone p{
+    font-family: 'Questrial', sans-serif;
+    color: #616055;
+    display: inline;
+}
+
+#down_col_r h2{
+    font-family: 'Amiri', serif;
+    font-size: 2em;
+    color: #1f1f1e;
+}
+
+#down_col_r h6{
+    font-size: 1.1em;
+    font-family: 'Questrial', sans-serif;
+}
+
+#down_col_r p{
+    font-size: 0.75em;
+    color: #616055;
+    font-family: 'Questrial', sans-serif;
+}
+
+#col_r_phone p{
+    font-size: 0.6em;
+    margin: 0    0      0       0;
+}
+
+.middle_hr {
+    border-top: 1px solid #61665f;
+    width: 98%;
+}
+
+#clients_col_number{
+    padding-left: 0 !important;
+}
+
+#clients_col_text{
+    font-size: 0.75em;
+    padding-top: 8%;
+    padding-left: 30% !important;
+}
+
+#experience_col_text{
+    padding-top: 8% !important;
+    font-size: 0.75em;
+    padding-left: 5% !important;
+}
